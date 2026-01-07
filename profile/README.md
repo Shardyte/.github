@@ -13,6 +13,8 @@ Shardyte is currently in active development.
 There is no public release or testnet available yet.
 Code, tooling, and documentation will be added here over time as systems are built and refined.
 
+Development progress for Shardyte is tracked publicly using a GitHub Project board that can be seen [here](https://github.com/orgs/Shardyte/projects/4).
+
 ## Direction
 Shardyte is being designed with the following principles in mind:
 - Game-first design, not blockchain-first
