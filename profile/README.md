@@ -14,6 +14,8 @@ There is no public release or testnet available yet.
 Code, tooling, and documentation will be added here over time as systems are built and refined.
 
 Development progress for Shardyte is tracked publicly using a GitHub Project board that can be seen [here](https://github.com/orgs/Shardyte/projects/4).
+> _Note: Some repositories and related work items are currently private.  
+> As a result, not all issues or development details linked from the project board may be publicly viewable at this time._
 
 ## Direction
 Shardyte is being designed with the following principles in mind:
